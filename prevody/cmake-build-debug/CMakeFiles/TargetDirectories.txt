@@ -1,0 +1,3 @@
+F:/student/it4/cechova/prevody/cmake-build-debug/CMakeFiles/prevody.dir
+F:/student/it4/cechova/prevody/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/it4/cechova/prevody/cmake-build-debug/CMakeFiles/rebuild_cache.dir
